@@ -1,0 +1,13 @@
+Criando sistema otimizado para cadastrar os clientes
+sem precisar cadastrar um por um manualmente
+
+
+Fontes
+
+    link documentação pyautogui:
+        https://pyautogui.readthedocs.io/en/latest/
+
+    link para testar e cadastrar os produtos:
+        https://dlp.hashtagtreinamentos.com/python/intensivao/login
+            login: gerente@gmail.com
+            senha: 28092007@uVa
