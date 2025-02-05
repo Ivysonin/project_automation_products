@@ -10,7 +10,7 @@ Aqui resolvo esse problema criando um programa que automatiza e faz automaticame
 - pyautogui
 - time
 
-## Programa funcionando
+## 📷 Programa funcionando
 https://github.com/user-attachments/assets/de5ca82b-33f4-43a8-baaf-678fca1f9bee
 
 ## Observações finais
