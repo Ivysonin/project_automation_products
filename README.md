@@ -34,6 +34,7 @@ Foi utilizado um site base de um curso online, já com banco de dados e layout p
 
 ## 📷 Programa Funcionando
 Veja uma demonstração do script em ação:
+
 https://github.com/user-attachments/assets/a01941f7-96ce-4014-854e-1c9402978848
 
 ## 📖 Aprendizados
